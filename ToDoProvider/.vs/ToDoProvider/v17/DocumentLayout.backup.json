@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HK\\Toy Project\\ToDoProvider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|c:\\hk\\toy project\\todoprovider\\todoprovider\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|solutionrelative:todoprovider\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|c:\\hk\\toy project\\todoprovider\\todoprovider\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|solutionrelative:todoprovider\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|c:\\hk\\toy project\\todoprovider\\todoprovider\\repository\\todoproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|solutionrelative:todoprovider\\repository\\todoproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|c:\\hk\\toy project\\todoprovider\\todoprovider\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|solutionrelative:todoprovider\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|c:\\hk\\toy project\\todoprovider\\todoprovider\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|solutionrelative:todoprovider\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|c:\\hk\\toy project\\todoprovider\\todoprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176AFBC7-60D2-4DCA-9CAD-FC01FA0D961C}|ToDoProvider\\ToDoProvider.csproj|solutionrelative:todoprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoProvider\\Program.cs",
+              "ToolTip": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\Program.cs",
+              "RelativeToolTip": "ToDoProvider\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:14:24.313Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoProvider\\AppDbContext.cs",
+              "ToolTip": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\AppDbContext.cs",
+              "RelativeToolTip": "ToDoProvider\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:17:03.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoProviderFactory.cs",
+              "DocumentMoniker": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\Repository\\ToDoProviderFactory.cs",
+              "RelativeDocumentMoniker": "ToDoProvider\\Repository\\ToDoProviderFactory.cs",
+              "ToolTip": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\Repository\\ToDoProviderFactory.cs",
+              "RelativeToolTip": "ToDoProvider\\Repository\\ToDoProviderFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:38:28.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoProvider\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDoProvider\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:44:17.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\wwwroot\\js\\app.js",
+              "RelativeDocumentMoniker": "ToDoProvider\\wwwroot\\js\\app.js",
+              "ToolTip": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\wwwroot\\js\\app.js",
+              "RelativeToolTip": "ToDoProvider\\wwwroot\\js\\app.js",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-03T05:13:07.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDoProvider\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\HK\\Toy Project\\ToDoProvider\\ToDoProvider\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ToDoProvider\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T05:13:47.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

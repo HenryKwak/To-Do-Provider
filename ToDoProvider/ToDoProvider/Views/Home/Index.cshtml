@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">To Do Provider</h1>
+</div>
+
+<div id="app" class="container mt-4">
+    <b-form-group label="Select Provider">
+        <b-form-select v-model="selectedProvider" v-on:change="fetchTasks">
+            <b-form-select-option value="Database">Database</b-form-select-option>
+            <b-form-select-option value="InMemory">InMemory</b-form-select-option>
+        </b-form-select>
+    </b-form-group>
+
+    <b-form-group label="Search Tasks">
+        <b-form-input v-model="searchQuery"
+                      v-on:input="searchTasks"
+                      placeholder="Search tasks"></b-form-input>
+    </b-form-group>
+
+    <b-form v-on:submit.prevent="addTask">
+        <b-form-group label="New Task" label-for="new-task-input">
+            <b-form-input id="new-task-input"
+                          v-model="newTask"
+                          placeholder="Enter a new task"
+                          required></b-form-input>
+        </b-form-group>
+        <b-button type="submit" variant="primary">Add</b-button>
+    </b-form>
+
+    <b-list-group class="mt-3">
+        <b-list-group-item v-for="(task, index) in tasks" :key="index" class="d-flex justify-content-between align-items-center">
+            <span>{{ task.task }}</span>
+            <div>
+                <b-button size="sm" variant="warning" v-on:click="editTask(index)">Edit</b-button>
+                <b-button size="sm" variant="danger" v-on:click="deleteTask(index)">Delete</b-button>
+            </div>
+        </b-list-group-item>
+    </b-list-group>
+</div>
+
+<script src="~/js/app.js"></script>
